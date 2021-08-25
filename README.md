@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Alex19Way, 19 years old, I'm from Italy
-- 👀 I’m interested in learning new creative and technical stuff
-- 🌱 I’m currently learning Javascript,
--I'm going to became a Front-End Developer
-- 💞️ I’m looking to collaborate on evry type of project in order to increase my skills
-- 📫 How to reach me --alessandro.soldani26@gmail.com--
+- 👋 Hi, I’m @Alex19Way, 19 years old, I'm from Italy.
+- 👀 I’m interested in learning new creative and technical stuff.
+- 🌱 I’m currently learning Javascript, and I'm going to became a Front-End Developer.
+- 💞️ I’m looking to increase my skills in order to start working in the web development.
+- 📫 This is my email --alessandro.soldani26@gmail.com--
+- At the moment I use Github to host all my projects.
 
 
 My learning line:<br>
