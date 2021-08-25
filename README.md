@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex19Way, 19 years old, I'm from Italy.
+- 👋 Hi, I’m @Alex19Way, 19 years old, Italy.
 - 👀 I’m interested in learning new creative and technical stuff.
 - 🌱 I’m currently learning Javascript, and I'm going to became a Front-End Developer.
 - 💞️ I’m looking to increase my skills in order to start working in the web development.
