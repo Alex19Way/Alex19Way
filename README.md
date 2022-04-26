@@ -9,7 +9,8 @@
 My learning line:<br>
 HTML5..........done<br>
 CSS3..........done<br>
-Javascript.....<br>
+Javascript..........done<br>
+React....<br>
 <!---
 Alex19Way/Alex19Way is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
